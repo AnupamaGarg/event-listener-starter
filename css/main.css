@@ -1,0 +1,29 @@
+.flashy {
+	color: LightSlateGrey;
+}
+
+.moreforce {
+	font-size: 2em;
+	text-transform: uppercase;
+}
+
+.bordered {
+	border: 6px dotted RebeccaPurple;
+	border-radius: 20px;
+}
+
+.accent {
+  	color: LightSeaGreen;
+}
+
+pre {
+	color:#75C33C;
+}
+
+#output {
+	display: inline;
+}
+
+footer {
+	background-color: salmon;
+}
